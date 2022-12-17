@@ -1,0 +1,8 @@
+Debug
+Release
+packages
+bin
+obj
+.vs
+.atsuo
+.idea
